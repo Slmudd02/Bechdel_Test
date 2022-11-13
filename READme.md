@@ -1,7 +1,7 @@
 # Bechdel Test
 ### By Shala 
 
-![photo](C:\Users\shala\Bechdel_Test\photo.jpg)
+![photo](https://variety.com/wp-content/uploads/2022/11/MCDDEWE_FE012.jpg?w=681&h=383&crop=1&resize=681%2C383)
 
 ## About
 
