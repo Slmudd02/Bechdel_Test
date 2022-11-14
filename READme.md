@@ -37,4 +37,14 @@ conda install matplotlib
 ```
 conda install numpy
 ```
-Then open my .ipyb file and run the code. 
+Then open Bechdel_test_project-checkpoint.ipynb file thats in my repo.
+
+## Code Louisville Requirements Met
+- Feature 1:
+    - Read two data files
+- Feature 2:
+    - Clean data and perform a pandas merge with two data sets, then calculate some new values based on the new data set.
+- Feature 3:
+    - Make 3 matplotlib visualizations to display data.
+- Feature 4:
+    - Utilize a virtual environment and include instructions in the README on how the user should set one up
