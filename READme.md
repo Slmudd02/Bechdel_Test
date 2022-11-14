@@ -21,16 +21,16 @@ Create a vritual enviornment.
 In order to create a conda enviorment like I did you must have Anaconda installed on your computer. In the Anaconda prompt do the folowing code:
 ```python
 conda --name venv_name python
-...
+```
 
 Instead of "venv_name" put the name of the new virtual enviornment. Once it is created run the follpwing code:
 ```python
 conda install jupyter 
-...
-...
+```
+```
 conda install pandas
-...
+```
 conda install matplotlib
-...
+```
 conda install numpy
-...
+```
