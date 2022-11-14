@@ -16,22 +16,25 @@ I have two datasets that I got from kaggle.com. The first are the top grossing m
 Kaggle.com
 
 ## How To Run This Program 
+First clone my repo.
 
-Create a vritual enviornment. 
+Then, create a vritual enviornment. 
 In order to create a conda enviorment like I did you must have Anaconda installed on your computer. In the Anaconda prompt do the folowing code:
 ```python
 conda --name venv_name python
 ```
 
 Instead of "venv_name" put the name of the new virtual enviornment. Once it is created run the following code:
-```python
+```
 conda install jupyter 
 ```
 ```
 conda install pandas
+```
 ```
 conda install matplotlib
 ```
 ```
 conda install numpy
 ```
+Then open my .ipyb file and run the code. 
