@@ -23,7 +23,7 @@ In order to create a conda enviorment like I did you must have Anaconda installe
 conda --name venv_name python
 ```
 
-Instead of "venv_name" put the name of the new virtual enviornment. Once it is created run the follpwing code:
+Instead of "venv_name" put the name of the new virtual enviornment. Once it is created run the following code:
 ```python
 conda install jupyter 
 ```
@@ -31,6 +31,7 @@ conda install jupyter
 conda install pandas
 ```
 conda install matplotlib
+```
 ```
 conda install numpy
 ```
