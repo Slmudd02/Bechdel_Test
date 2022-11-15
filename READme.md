@@ -19,25 +19,17 @@ Kaggle.com
 First clone my repo.
 
 Then, create a virtual environment. 
-In order to create a conda environment like I did you must have Anaconda installed on your computer. In the Anaconda prompt do the following code:
-```python
-conda --name venv_name python
-```
+In order to create a conda environment like I did you must have Anaconda installed on your computer. Make sure you are in my cloned repo directory. In the Anaconda prompt do the following code:
 
-Instead of "venv_name" put the name of the new virtual environment. Once it is created run the following code:
 ```
-conda install jupyter 
-```
-```
-conda install pandas
-```
-```
-conda install matplotlib
-```
-```
-conda install numpy
-```
-Then open the Bechdel_test_project-checkpoint.ipynb file thats in my repo.
+ conda env create -f environment.yml
+ ```
+
+Open the Bechdel_test_project-checkpoint.ipynb file that's in my repo.
+
+Once the file is opened activate the bechdel virtual environment.
+
+
 
 ## Code Louisville Requirements Met
 - Feature 1:
