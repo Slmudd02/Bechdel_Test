@@ -5,12 +5,12 @@
 
 ## About
 
-The Bechdel test was created to show how women are being portrayed in a sexist way on film. In order to pass the test the films must contain three things:
+The Bechdel test was created to show the portrayal of women in a sexist way on film. In order to pass the test films must contain three things:
  - Two lead female characters that the audience knows the name of 
  - Characters have to talk to each other
- - Must talk about something other than men
+ - Characters must talk about something other than men
 
-I have two datasets that I got from kaggle.com. The first are the top grossing movies of all time. The second are top grossing movies that passed or failed the Bechdel test. I merged these two datasets together using python.
+I utilized two data sets that were retrieved from kaggle.com. The first are the top grossing movies of all time. The second are top grossing movies that passed or failed the Bechdel test. I merged both datasets together using python.
 
 ## Source 
 Kaggle.com
@@ -37,7 +37,7 @@ conda install matplotlib
 ```
 conda install numpy
 ```
-Then open Bechdel_test_project-checkpoint.ipynb file thats in my repo.
+Then open the Bechdel_test_project-checkpoint.ipynb file thats in my repo.
 
 ## Code Louisville Requirements Met
 - Feature 1:
